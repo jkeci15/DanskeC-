@@ -1,0 +1,11 @@
+/Users/jorgo/Documents/Applications/Work/DanskeC#/bin/Debug/netcoreapp3.0/DanskeC#
+/Users/jorgo/Documents/Applications/Work/DanskeC#/bin/Debug/netcoreapp3.0/DanskeC#.deps.json
+/Users/jorgo/Documents/Applications/Work/DanskeC#/bin/Debug/netcoreapp3.0/DanskeC#.runtimeconfig.json
+/Users/jorgo/Documents/Applications/Work/DanskeC#/bin/Debug/netcoreapp3.0/DanskeC#.runtimeconfig.dev.json
+/Users/jorgo/Documents/Applications/Work/DanskeC#/bin/Debug/netcoreapp3.0/DanskeC#.dll
+/Users/jorgo/Documents/Applications/Work/DanskeC#/bin/Debug/netcoreapp3.0/DanskeC#.pdb
+/Users/jorgo/Documents/Applications/Work/DanskeC#/obj/Debug/netcoreapp3.0/DanskeC#.csprojAssemblyReference.cache
+/Users/jorgo/Documents/Applications/Work/DanskeC#/obj/Debug/netcoreapp3.0/DanskeC#.AssemblyInfoInputs.cache
+/Users/jorgo/Documents/Applications/Work/DanskeC#/obj/Debug/netcoreapp3.0/DanskeC#.AssemblyInfo.cs
+/Users/jorgo/Documents/Applications/Work/DanskeC#/obj/Debug/netcoreapp3.0/DanskeC#.dll
+/Users/jorgo/Documents/Applications/Work/DanskeC#/obj/Debug/netcoreapp3.0/DanskeC#.pdb
